@@ -3,7 +3,7 @@
 ![Netflix Logo](https://github.com/najirh/netflix_sql_project/raw/main/logo.png)
 
 <h3><b><i>OverView</i></b></h3>
-||||||||||||||||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||||||||||||||| <br> <br>
 <p>
   This Repository involves comprehensive Data Analysis and solving Real- world Business problems using Postgresql . 
   It's an Intermediate level Project for polishing the both Analytical and Technical Skills in Entertainment Domain.
@@ -11,7 +11,7 @@
 </p>
 
 <h3><i>Objectives</i></h3>
-||||||||||||||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||||||||||||||<br> <br>
 <p>
 1. Analyze the distribution of content types (movies vs TV shows).<br>
 2. Identify the most common ratings for movies and TV shows.<br>
