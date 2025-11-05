@@ -22,7 +22,7 @@
 <h3><i>Dataset Schema Design</i></h3>
 ||||||||||||||||||||||||||||||||||||||||||||||||||||
 <br>
-
+<br>
 ```sql
 CREATE TABLE netflix(
 show_id VARCHAR(6) PRIMARY KEY,
@@ -183,6 +183,6 @@ GROUP BY 1 ;
 ```
 
 <h3><i>Author</i></h3>
-<b>Name :- Aryan Singh</b>
-<b> Linkedin :- https://www.linkedin.com/in/aryan-singh-b91248331/</b>
+<b>Name :- Aryan Singh</b><br>
+<b> Linkedin :- https://www.linkedin.com/in/aryan-singh-b91248331/</b><br>
 <b> Kaggle :- https://www.kaggle.com/datawitharyan</b>
