@@ -23,6 +23,7 @@
 ||||||||||||||||||||||||||||||||||||||||||||||||||||
 <br>
 <br>
+
 ```sql
 CREATE TABLE netflix(
 show_id VARCHAR(6) PRIMARY KEY,
